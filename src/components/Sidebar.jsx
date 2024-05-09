@@ -1,10 +1,21 @@
+import { Link, useParams } from "react-router-dom"
+import { useState, useEffect } from "react"
 
+export function Sidebar() {
 
-export function Sidebar () {
+    const [categories, setCategories] = useState([])
+    const url = 'https://fakestoreapi.com/products/categories'
+
+    useEffect(() => {
+        fetch(url)
+        .then(res => res.json())
+        .then(json => setCategories(json))
+    })
+    
 
     return (
-        <aside className="bg-slate-500 w-72 h-full inline-block">
-
+        <aside className="flex-none bg-slate-500 w-72">
+            swag
         </aside>
     )
 }
