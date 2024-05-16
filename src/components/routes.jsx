@@ -1,7 +1,8 @@
+import { ProductLayout } from "../layouts/ProductLayout.jsx";
 import { Home } from "../pages/Home.jsx";
 import { ProductPage } from "../pages/ProductPage.jsx";
 import { Error } from "./ErrorPage.jsx";
-import { ProductView } from "./productView.jsx";
+import { Checkout } from '../pages/Checkout.jsx'
 
 const routes = [
     {
@@ -11,15 +12,21 @@ const routes = [
         children: [
             {
                 path: "/products/:categoryId",
-                element: <ProductView />
+                element: <ProductLayout />
             },
-        ]
+            
+        ],
     },
     
     {
         path: "/products/:categoryId/:productId",
         element: <ProductPage />
+    },
+    {
+        path: "/checkout",
+        element: <Checkout />
     }
+    
 
 ]
 
