@@ -1,22 +1,31 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router";
 import { Header } from "../components/Header";
-import { ProductView } from "../components/productView";
 import { HomeLayout } from '../layouts/HomeLayout'
 import { ProductLayout } from "../layouts/ProductLayout";
+import { CartContextProvider } from "../context/CartContextProvider";
+import { Filler } from "../components/Filler";
 
 export function Home () {
 
     const { categoryId } = useParams()
+    const [param, setParam] = useState(categoryId)
+
+    param !== categoryId && setParam(categoryId)
 
     return (
         <>
-            <Header></Header>
-            { categoryId ? 
-                <ProductLayout /> 
+        <CartContextProvider>
+            <Header />
+            <Filler/>
+            { categoryId ?
+                <ProductLayout param={param}/> 
+               
                 :
                 <HomeLayout />
             }
+            
+        </CartContextProvider>
         </>
     )
 }
