@@ -6,9 +6,10 @@
         "productName": "Twilight Masquarade Elite Trainer Box",
         "originalPrice": "999",
         "price": "899",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "9 Booster packs",
@@ -16,19 +17,19 @@
             "65 card sleeves featuring Koraidon",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Scarlet & Violet expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": true,
         "stock": 78,
         "image": {
-            "first":"../ETB/TWM_ETB01_01",
-            "second":"../ETB/TWM_ETB01_02"
+            "first": "../ETB/TWM_ETB01_01",
+            "second": "../ETB/TWM_ETB01_02"
         },
         "type": "elite-trainer-boxes",
-        "released":false
+        "released": false
     },
     {
         "id": "8f240e9d7b66b63",
@@ -37,9 +38,10 @@
         "productName": "Twilight Masquarade Booster pack",
         "originalPrice": "",
         "price": "99",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "10 Pokémon Twilight Masquarade Trading cards",
@@ -49,10 +51,10 @@
         "onSale": false,
         "stock": 78,
         "image": {
-            "first":"../BOOSTERS/TWM_BOOSTER01_01"
+            "first": "../BOOSTERS/TWM_BOOSTER01_01"
         },
         "type": "boosters",
-        "released":false
+        "released": false
     },
     {
         "id": "fdb87120f149825",
@@ -61,9 +63,10 @@
         "productName": "Twilight Masquarade Porygon-Z premium checklane blister",
         "originalPrice": "159",
         "price": "139",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "1 Twilight Masquarade Booster pack",
@@ -73,10 +76,10 @@
         "onSale": true,
         "stock": 0,
         "image": {
-            "first":"../BLISTERS/TWM_PREMIUMCHECKLANE01_01"
+            "first": "../BLISTERS/TWM_PREMIUMCHECKLANE01_01"
         },
         "type": "blisters",
-        "released":false
+        "released": false
     },
     {
         "id": "5a94df2584a1216",
@@ -85,9 +88,10 @@
         "productName": "Twilight Masquarade Kingdra premium checklane blister",
         "originalPrice": "",
         "price": "159",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "1 Twilight Masquarade Booster pack",
@@ -97,10 +101,10 @@
         "onSale": false,
         "stock": 25,
         "image": {
-            "first":"../BLISTERS/TWM_PREMIUMCHECKLANE02_01"
+            "first": "../BLISTERS/TWM_PREMIUMCHECKLANE02_01"
         },
         "type": "blisters",
-        "released":false
+        "released": false
     },
     {
         "id": "772cb972c5d2920",
@@ -109,9 +113,10 @@
         "productName": "Twilight Masquarade Snorlax 3-pack blister",
         "originalPrice": "",
         "price": "329",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "3 Twilight Masquarade Booster packs",
@@ -120,10 +125,10 @@
         "onSale": false,
         "stock": 64,
         "image": {
-            "first":"../BLISTERS/TWM_3PACKBLISTER01_01"
+            "first": "../BLISTERS/TWM_3PACKBLISTER01_01"
         },
         "type": "blisters",
-        "released":false
+        "released": false
     },
     {
         "id": "edd903f47192297",
@@ -132,9 +137,10 @@
         "productName": "Twilight Masquarade Revavroom 3-pack blister",
         "originalPrice": "329",
         "price": "279",
-        "description":{
-            "heading":"A Festival of Mischief & Mystery!",
-            "body":"Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!"
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
         },
         "contents": [
             "3 Twilight Masquarade Booster packs",
@@ -143,10 +149,67 @@
         "onSale": true,
         "stock": 53,
         "image": {
-            "first":"../BLISTERS/TWM_3PACKBLISTER02_01"
+            "first": "../BLISTERS/TWM_3PACKBLISTER02_01"
         },
         "type": "blisters",
-        "released":false
+        "released": false
+    },
+    {
+        "id": "1bb03a85cfefd17",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Gardevoir ex League Battle Deck",
+        "originalPrice": "",
+        "price": "629",
+        "description": {
+            "heading": "Gardevoir ex: Embrace the Possibilities!",
+            "body": "",
+            "cardlist": [
+                "3× Gardevoir ex",
+                "4× Kirlia",
+                "4x Ralts",
+                "3x Drifloon",
+                "1x Cresselia",
+                "1x Lumineon V",
+                "1x Mew ex",
+                "1x Radiant Greninja",
+                "4x Iono",
+                "3× Professor’s Research (Professor Sada)",
+                "2x Arven",
+                "2× Boss’s Orders (Ghetsis)",
+                "1x Jacq",
+                "2x Artazon",
+                "4x Nest Ball",
+                "4x Ultra Ball",
+                "3x Rare Candy",
+                "1x Super Rod",
+                "3x Bravery Charm",
+                "13× Basic Psychic Energy"
+            ]
+        },
+        "contents": [
+            "1 ready-to-play 60-card deck",
+            "6 damage-counter dice",
+            "1 coin-flip die",
+            "2 coin condition markers",
+            "1 deck box",
+            "1 accessory box",
+            "1 strategy sheet",
+            "1 Pokémon TCG Live code to play this deck online"
+        ],
+        "onSale": false,
+        "stock": 16,
+        "image": {
+            "first": "../DECKS/GARDEVOIREX_LEAGUEDECK_01",
+            "second": "../DECKS/GARDEVOIREX_LEAGUEDECK_02",
+            "third": "../DECKS/GARDEVOIREX_LEAGUEDECK_03",
+            "fourth": "../DECKS/GARDEVOIREX_LEAGUEDECK_04",
+            "fifth": "../DECKS/GARDEVOIREX_LEAGUEDECK_05",
+            "sixth": "../DECKS/GARDEVOIREX_LEAGUEDECK_06",
+            "seventh": "../DECKS/GARDEVOIREX_LEAGUEDECK_07"
+        },
+        "type": "theme-decks",
+        "released": true
     },
     {
         "id": "8a826c46a25d7ca",
@@ -155,9 +218,10 @@
         "productName": "Temporal Forces Walking Wake Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Temporal Forces Booster packs",
@@ -165,18 +229,18 @@
             "65 card sleeves featuring Walking Wake",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Temporal Forces expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 56,
         "image": {
-            "first":"../ETB/TEF_ETB02_01"
+            "first": "../ETB/TEF_ETB02_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "f0e910040b07a0e",
@@ -185,9 +249,10 @@
         "productName": "Temporal Forces Iron Leaves Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Temporal Forces Booster packs",
@@ -195,18 +260,49 @@
             "65 card sleeves featuring Iron Leaves",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Temporal Forces expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 66,
         "image": {
-            "first":"../ETB/TEF_ETB01_01"
+            "first": "../ETB/TEF_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
+    },
+    {
+        "id": "a63913c9492bb03",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Combined Powers Premium Collection",
+        "originalPrice": "",
+        "price": "1349",
+        "description": {
+            "heading": "Elemental Forces at Your Command!",
+            "body": "Three Legendary Pokémon ex of the Johto region combine their powers in this exciting collection! Soar above the rainbow with Ho-Oh ex, dive deep below the waves with Lugia ex, and dash across the water with Suicune ex. You’ll also find a foil card featuring Mr. Mime, an oversize card featuring Lugia ex, a trio of foil Pokémon Tool cards, and a big handful of booster packs to expand your collection!",
+            "cardlist": ""
+        },
+        "contents": [
+            "3 foil cards featuring Lugia ex, Ho-Oh ex, and Suicune ex",
+            "1 foil card featuring Mr. Mime",
+            "3 foil Pokémon Tool cards",
+            "1 foil oversize card featuring Lugia ex",
+            "11 Booster packs"
+        ],
+        "onSale": false,
+        "stock": 27,
+        "image": {
+            "first": "../COLLECTIONS/COMBINEDPOWERS_PREMIUM_01",
+            "second": "../COLLECTIONS/COMBINEDPOWERS_PREMIUM_02",
+            "third": "../COLLECTIONS/COMBINEDPOWERS_PREMIUM_03",
+            "fourth": "../COLLECTIONS/COMBINEDPOWERS_PREMIUM_04",
+            "fifth": "../COLLECTIONS/COMBINEDPOWERS_PREMIUM_05"
+        },
+        "type": "collections",
+        "released": true
     },
     {
         "id": "2df7345015fd559",
@@ -215,9 +311,10 @@
         "productName": "Paldean Fates Elite Trainer Box",
         "originalPrice": "",
         "price": "1099",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Paldean Fates Booster packs",
@@ -225,18 +322,18 @@
             "65 card sleeves featuring Shiny Mimikyu",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Paldean Fates expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 16,
         "image": {
-            "first":"../ETB/PAF_ETB01_01"
+            "first": "../ETB/PAF_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "9e80f5725aac523",
@@ -245,22 +342,23 @@
         "productName": "Paldean Fates Finizen Mini Tin",
         "originalPrice": "",
         "price": "229",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Finizen in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Finizen in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Paldean Fates Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 54,
         "image": {
-            "first":"../TINS/PAF_MINITIN01_01"
+            "first": "../TINS/PAF_MINITIN01_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "ee818b14937bd9d",
@@ -269,22 +367,23 @@
         "productName": "Paldean Fates Flamigo Mini Tin",
         "originalPrice": "",
         "price": "229",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Flamigo in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Flamigo in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Paldean Fates Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 31,
         "image": {
-            "first":"../TINS/PAF_MINITIN02_01"
+            "first": "../TINS/PAF_MINITIN02_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "974a09a2a20d49a",
@@ -293,22 +392,23 @@
         "productName": "Paldean Fates Maushold Mini Tin",
         "originalPrice": "",
         "price": "229",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Maushold in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Maushold in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Paldean Fates Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 30,
         "image": {
-            "first":"../TINS/PAF_MINITIN03_01"
+            "first": "../TINS/PAF_MINITIN03_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "0cb2abf25120b62",
@@ -317,22 +417,23 @@
         "productName": "Paldean Fates Smoliv Mini Tin",
         "originalPrice": "",
         "price": "229",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Smoliv in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Smoliv in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Paldean Fates Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 34,
         "image": {
-            "first":"../TINS/PAF_MINITIN04_01"
+            "first": "../TINS/PAF_MINITIN04_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "a68d30c8f74416f",
@@ -341,22 +442,23 @@
         "productName": "Paldean Fates Tinkatink Mini Tin",
         "originalPrice": "",
         "price": "229",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Tinkatink in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Scarlet & Violet—Paldean Fates Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Tinkatink in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Paldean Fates Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 25,
         "image": {
-            "first":"../TINS/PAF_MINITIN05_01"
+            "first": "../TINS/PAF_MINITIN05_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "ccb8ec8a34f3b6f",
@@ -365,23 +467,24 @@
         "productName": "Paldean Fates Great Tusk ex Tin",
         "originalPrice": "",
         "price": "489",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the quaking force of Great Tusk ex as an Ancient Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the quaking force of Great Tusk ex as an Ancient Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Great Tusk ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 15,
         "image": {
-            "first":"../TINS/PAF_TIN01_01",
-            "second":"../TINS/PAF_PREMIUMTIN01_03"
+            "first": "../TINS/PAF_TIN01_01",
+            "second": "../TINS/PAF_PREMIUMTIN01_03"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "aa863acfb6ca8c8",
@@ -390,23 +493,24 @@
         "productName": "Paldean Fates Iron Treads ex Tin",
         "originalPrice": "",
         "price": "489",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the iron-clad determination of Iron Treads ex as a Future Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the iron-clad determination of Iron Treads ex as a Future Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Iron Treads ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 16,
         "image": {
-            "first":"../TINS/PAF_TIN02_01",
-            "second":"../TINS/PAF_PREMIUMTIN02_03"
+            "first": "../TINS/PAF_TIN02_01",
+            "second": "../TINS/PAF_PREMIUMTIN02_03"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "76b11834593efb0",
@@ -415,23 +519,24 @@
         "productName": "Paldean Fates Charizard ex Tin",
         "originalPrice": "",
         "price": "529",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the burning spirit of Charizard ex as a Darkness-type Tera Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the burning spirit of Charizard ex as a Darkness-type Tera Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Charizard ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 2,
         "image": {
-            "first":"../TINS/PAF_TIN03_01",
-            "second":"../TINS/PAF_PREMIUMTIN03_03"
+            "first": "../TINS/PAF_TIN03_01",
+            "second": "../TINS/PAF_PREMIUMTIN03_03"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "748eaf011f7f160",
@@ -440,25 +545,26 @@
         "productName": "Paldean Fates Great Tusk ex Premium Tin",
         "originalPrice": "",
         "price": "619",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the quaking force of Great Tusk ex as an Ancient Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the quaking force of Great Tusk ex as an Ancient Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "5 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Great Tusk ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 22,
         "image": {
-            "first":"../TINS/PAF_PREMIUMTIN01_01",
-            "second":"../TINS/PAF_PREMIUMTIN01_02",
-            "third":"../TINS/PAF_PREMIUMTIN01_03",
-            "fourth":"../TINS/PAF_PREMIUMTIN_SHARED"
+            "first": "../TINS/PAF_PREMIUMTIN01_01",
+            "second": "../TINS/PAF_PREMIUMTIN01_02",
+            "third": "../TINS/PAF_PREMIUMTIN01_03",
+            "fourth": "../TINS/PAF_PREMIUMTIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "bfbc5886de11d78",
@@ -467,25 +573,26 @@
         "productName": "Paldean Fates Iron Treads ex Premium Tin",
         "originalPrice": "",
         "price": "619",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the iron-clad determination of Iron Treads ex as a Future Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the iron-clad determination of Iron Treads ex as a Future Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "5 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Iron Treads ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 29,
         "image": {
-            "first":"../TINS/PAF_PREMIUMTIN02_01",
-            "second":"../TINS/PAF_PREMIUMTIN02_02",
-            "third":"../TINS/PAF_PREMIUMTIN02_03",
-            "fourth":"../TINS/PAF_PREMIUMTIN_SHARED"
+            "first": "../TINS/PAF_PREMIUMTIN02_01",
+            "second": "../TINS/PAF_PREMIUMTIN02_02",
+            "third": "../TINS/PAF_PREMIUMTIN02_03",
+            "fourth": "../TINS/PAF_PREMIUMTIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "06d65c2a4d68230",
@@ -494,25 +601,117 @@
         "productName": "Paldean Fates Charizard ex Premium Tin",
         "originalPrice": "",
         "price": "669",
-        "description":{
-            "heading":"Shiny Pokémon ex in the Spotlight!",
-            "body":"Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the burning spirit of Charizard ex as a Darkness-type Tera Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!"
+        "description": {
+            "heading": "Shiny Pokémon ex in the Spotlight!",
+            "body": "Behold the breathtaking power of Shiny Pokémon ex who transcend the boundaries of time and type! With this tin, choose the burning spirit of Charizard ex as a Darkness-type Tera Pokémon, then discover even more awesome cards in Scarlet & Violet—Paldean Fates booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "5 Paldean Fates Booster packs",
             "1 foil promo card featuring Shiny Charizard ex",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 1,
         "image": {
-            "first":"../TINS/PAF_PREMIUMTIN03_01",
-            "second":"../TINS/PAF_PREMIUMTIN03_02",
-            "third":"../TINS/PAF_PREMIUMTIN03_03",
-            "fourth":"../TINS/PAF_PREMIUMTIN_SHARED"
+            "first": "../TINS/PAF_PREMIUMTIN03_01",
+            "second": "../TINS/PAF_PREMIUMTIN03_02",
+            "third": "../TINS/PAF_PREMIUMTIN03_03",
+            "fourth": "../TINS/PAF_PREMIUMTIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
+    },
+    {
+        "id": "fc47c23e1c08fba",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Collector Chest (Q4 2023)",
+        "originalPrice": "819",
+        "price": "639",
+        "description": {
+            "heading": "A Treasure Chest Packed with Pokémon!",
+            "body": "This sturdy metal case contains more than a dozen special Pokémon goodies, including some not found anywhere else.",
+            "cardlist": ""
+        },
+        "contents": [
+            "6 Booster Packs",
+            "3 foil cards featuring Meowscarada, Skeledirge, and Quaquaval",
+            "1 cool Pokémon coin",
+            "4 colorful sticker sheets",
+            "1 mini portfolio to store your favorite cards",
+            "1 Pokémon TCG Live code"
+        ],
+        "onSale": true,
+        "stock": 9,
+        "image": {
+            "first": "../TINS/Q4_CHEST01_01",
+            "second": "../TINS/Q4_CHEST01_02",
+            "third": "../TINS/Q4_CHEST01_03",
+            "fourth": "../TINS/Q4_CHEST01_04",
+            "fifth": "../TINS/Q4_CHEST01_05",
+            "sixth": "../TINS/Q4_CHEST01_06",
+            "seventh": "../TINS/Q4_CHEST01_07",
+            "eigth": "../TINS/Q4_CHEST01_08"
+        },
+        "type": "tins-&-chests",
+        "released": true
+    },
+    {
+        "id": "154f1ae26188cd4",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Miraidon ex League Battle Deck",
+        "originalPrice": "",
+        "price": "649",
+        "description": {
+            "heading": "Get Charged Up with Miraidon ex & Regieleki VMAX!",
+            "body": "Team up with the legendary Miraidon ex and electrify matches with the power of lightning! This Pokémon ex is yours in this powerful, League-ready deck for skilled Trainers and Pokémon TCG players. With a slew of cards including premium foil cards, sought-after power cards, and a well-tuned set of Pokémon and Trainer cards, the Miraidon ex League Battle Deck does more than feature one of the most popular Pokémon of the Paldean region: it puts together all the elements to support you in your next match against friends and neighbors, in person or online!",
+            "cardlist": [
+                "2× Miraidon ex",
+                "2× Regieleki VMAX",
+                "2× Regieleki V",
+                "2× Regieleki",
+                "2× Zeraora",
+                "2× Bibarel",
+                "2× Bidoof",
+                "4× Arven",
+                "4× Boss’s Orders (Ghetsis)",
+                "4× Professor’s Research (Professor Turo)",
+                "4× Electric Generator",
+                "3× Nest Ball",
+                "2× Switch",
+                "4× Ultra Ball",
+                "1× Forest Seal Stone",
+                "1× Leafy Camo Poncho",
+                "2× Vitality Band",
+                "2× Beach Court",
+                "15× Basic Lightning Energy"
+            ]
+        },
+        "contents": [
+            "1 ready-to-play 60-card deck",
+            "6 damage-counter dice",
+            "1 coin-flip die",
+            "2 coin condition markers",
+            "1 deck box",
+            "1 accessory box",
+            "1 strategy sheet",
+            "1 Pokémon TCG Live code to play this deck online"
+        ],
+        "onSale": false,
+        "stock": 14,
+        "image": {
+            "first": "../DECKS/MIRAIDONEX_LEAGUEDECK_01",
+            "second": "../DECKS/MIRAIDONEX_LEAGUEDECK_02",
+            "third": "../DECKS/MIRAIDONEX_LEAGUEDECK_03",
+            "fourth": "../DECKS/MIRAIDONEX_LEAGUEDECK_04",
+            "fifth": "../DECKS/MIRAIDONEX_LEAGUEDECK_05",
+            "sixth": "../DECKS/MIRAIDONEX_LEAGUEDECK_06",
+            "seventh": "../DECKS/MIRAIDONEX_LEAGUEDECK_07"
+        },
+        "type": "theme-decks",
+        "released": true
     },
     {
         "id": "b8c86adf9a9893e",
@@ -521,25 +720,25 @@
         "productName": "Paradox Rift Iron Valiant Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{},
+        "description": {},
         "contents": [
             "9 Paradox Rift Booster packs",
             "1 full-art promo featuring Iron Bundle",
             "65 card sleeves featuring Iron Valiant",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Paradox Rift expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 45,
         "image": {
-            "first":"../ETB/PAR_ETB02_01"
+            "first": "../ETB/PAR_ETB02_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "ada9ce82683da0",
@@ -548,25 +747,25 @@
         "productName": "Paradox Rift Roaring Moon Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{},
+        "description": {},
         "contents": [
             "9 Paradox Rift Booster packs",
             "1 full-art promo featuring Scream Tail",
             "65 card sleeves featuring Roaring Moon",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Paradox Rift expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 44,
         "image": {
-            "first":"../ETB/PAR_ETB01_01"
+            "first": "../ETB/PAR_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "d8bdc79315d9348",
@@ -575,9 +774,10 @@
         "productName": "Scarlet & Violet - 151 Elite Trainer Box",
         "originalPrice": "",
         "price": "1199",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Scarlet & Violet - 151 Booster packs",
@@ -585,18 +785,118 @@
             "65 card sleeves featuring Snorlax",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Scarlet & Violet - 151 expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 6,
         "image": {
-            "first":"../ETB/MEW_ETB01_01"
+            "first": "../ETB/MEW_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
+    },
+    {
+        "id": "3107d5298eb0e7b",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Poke Ball Tin",
+        "originalPrice": "",
+        "price": "349",
+        "description": {
+            "heading": "What’s Inside a Poké Ball?",
+            "body": "The answer is Pokémon cards, of course!",
+            "cardlist": ""
+        },
+        "contents": [
+            "3 Booster Packs",
+            "2 Sticker sheets"
+        ],
+        "onSale": false,
+        "stock": 12,
+        "image": {
+            "first": "../TINS/Q3_BALL01_01",
+            "second": "../TINS/Q3_BALL_SHARED"
+        },
+        "type": "tins-&-chests",
+        "released": true
+    },
+    {
+        "id": "c082fe216141e01",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Great Ball Tin",
+        "originalPrice": "",
+        "price": "339",
+        "description": {
+            "heading": "What’s Inside a Poké Ball?",
+            "body": "The answer is Pokémon cards, of course!",
+            "cardlist": ""
+        },
+        "contents": [
+            "3 Booster Packs",
+            "2 Sticker sheets"
+        ],
+        "onSale": false,
+        "stock": 11,
+        "image": {
+            "first": "../TINS/Q3_BALL02_01",
+            "second": "../TINS/Q3_BALL_SHARED"
+        },
+        "type": "tins-&-chests",
+        "released": true
+    },
+    {
+        "id": "fbdc3dd64311ea9",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Lure Ball Tin",
+        "originalPrice": "",
+        "price": "339",
+        "description": {
+            "heading": "What’s Inside a Poké Ball?",
+            "body": "The answer is Pokémon cards, of course!",
+            "cardlist": ""
+        },
+        "contents": [
+            "3 Booster Packs",
+            "2 Sticker sheets"
+        ],
+        "onSale": false,
+        "stock": 13,
+        "image": {
+            "first": "../TINS/Q3_BALL03_01",
+            "second": "../TINS/Q3_BALL_SHARED"
+        },
+        "type": "tins-&-chests",
+        "released": true
+    },
+    {
+        "id": "580cac6a825c3a4",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Ultra Ball Tin",
+        "originalPrice": "",
+        "price": "349",
+        "description": {
+            "heading": "What’s Inside a Poké Ball?",
+            "body": "The answer is Pokémon cards, of course!",
+            "cardlist": ""
+        },
+        "contents": [
+            "3 Booster Packs",
+            "2 Sticker sheets"
+        ],
+        "onSale": false,
+        "stock": 9,
+        "image": {
+            "first": "../TINS/Q3_BALL04_01",
+            "second": "../TINS/Q3_BALL_SHARED"
+        },
+        "type": "tins-&-chests",
+        "released": true
     },
     {
         "id": "02586e355f8062d",
@@ -605,9 +905,10 @@
         "productName": "Obsidian Flames Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Obsidian Flames Booster packs",
@@ -615,18 +916,80 @@
             "65 card sleeves featuring Charmander",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Obsidian Flames expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 36,
         "image": {
-            "first":"../ETB/OBF_ETB01_01"
+            "first": "../ETB/OBF_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
+    },
+    {
+        "id": "c290bece9dce1b4",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Scarlet & Violet Collector Chest (Q3 2023)",
+        "originalPrice": "839",
+        "price": "629",
+        "description": {
+            "heading": "A Treasure Chest Packed with Pokémon!",
+            "body": "This sturdy metal case contains more than a dozen special Pokémon goodies, including some not found anywhere else.",
+            "cardlist": ""
+        },
+        "contents": [
+            "6 Booster Packs",
+            "3 foil cards featuring Sprigatito, Fuecoco, and Quaxly",
+            "1 cool Pokémon coin",
+            "4 colorful sticker sheets",
+            "1 mini portfolio to store your favorite cards",
+            "1 Pokémon TCG Live code"
+        ],
+        "onSale": true,
+        "stock": 8,
+        "image": {
+            "first": "../TINS/Q3_CHEST01_01",
+            "second": "../TINS/Q3_CHEST01_02",
+            "third": "../TINS/Q3_CHEST01_03",
+            "fourth": "../TINS/Q3_CHEST01_04",
+            "fifth": "../TINS/Q3_CHEST01_05",
+            "sixth": "../TINS/Q3_CHEST01_06",
+            "seventh": "../TINS/Q3_CHEST01_07"
+        },
+        "type": "tins-&-chests",
+        "released": true
+    },
+    {
+        "id": "6bb3c8e6efa7c34",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Annihilape ex Box",
+        "originalPrice": "",
+        "price": "549",
+        "description": {
+            "heading": "Unleash the Rage of an Angry Grudge—with Annihilape ex!",
+            "body": "Your opponent will come to fear the Angry Grudge of Annihilape ex! Damage only makes this powerful Pokémon ex stronger, and it’s joined by Mankey and Primeape to help you get it into play right away.",
+            "cardlist": ""
+        },
+        "contents": [
+            "1 foil promo card featuring Annihilape ex",
+            "1 foil card featuring Primeape",
+            "1 foil card featuring Mankey",
+            "4 Booster packs"
+        ],
+        "onSale": false,
+        "stock": 41,
+        "image": {
+            "first": "../BOXES/ANNIHILAPE_EXBOX_01",
+            "second": "../BOXES/ANNIHILAPE_EXBOX_02",
+            "third": "../BOXES/ANNIHILAPE_EXBOX_03"
+        },
+        "type": "boxes",
+        "released": true
     },
     {
         "id": "8457d50ed5b1393",
@@ -635,9 +998,10 @@
         "productName": "Paldea Evolved Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Paldea Evolved Booster packs",
@@ -645,18 +1009,18 @@
             "65 card sleeves featuring Sprigatito, Fuecoco, and Quaxly",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Paldea Evolved expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 34,
         "image": {
-            "first":"../ETB/PAL_ETB01_01"
+            "first": "../ETB/PAL_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "e2a00395ee3a5f3",
@@ -665,22 +1029,23 @@
         "productName": "Paldea Friends Fuecoco Mini Tin",
         "originalPrice": "",
         "price": "219",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":""
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "2 Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 37,
         "image": {
-            "first":"../TINS/PAL_MINITIN01_01"
+            "first": "../TINS/PAL_MINITIN01_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "4cb533cd5b3c374",
@@ -689,22 +1054,23 @@
         "productName": "Paldea Friends Pawmi Mini Tin",
         "originalPrice": "",
         "price": "219",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":""
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "2 Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 40,
         "image": {
-            "first":"../TINS/PAL_MINITIN02_01"
+            "first": "../TINS/PAL_MINITIN02_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "3b21d1f06287c3b",
@@ -713,22 +1079,23 @@
         "productName": "Paldea Friends Pikachu Mini Tin",
         "originalPrice": "",
         "price": "219",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":""
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "2 Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 24,
         "image": {
-            "first":"../TINS/PAL_MINITIN03_01"
+            "first": "../TINS/PAL_MINITIN03_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "8a650fc7a8b3f58",
@@ -737,22 +1104,23 @@
         "productName": "Paldea Friends Quaxly Mini Tin",
         "originalPrice": "",
         "price": "219",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":""
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "2 Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 27,
         "image": {
-            "first":"../TINS/PAL_MINITIN04_01"
+            "first": "../TINS/PAL_MINITIN04_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "27bbe66df7379f9",
@@ -761,22 +1129,23 @@
         "productName": "Paldea Friends Sprigatito Mini Tin",
         "originalPrice": "",
         "price": "219",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":""
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "2 Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 22,
         "image": {
-            "first":"../TINS/PAL_MINITIN05_01"
+            "first": "../TINS/PAL_MINITIN05_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "c26898490eb3eca",
@@ -785,23 +1154,24 @@
         "productName": "Paldea Partners Meowscarada ex Tin",
         "originalPrice": "",
         "price": "429",
-        "description":{
-            "heading":"Call on the Power of Evolution with Pokémon ex!",
-            "body":"Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the sneaky magic of Meowscarada ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!"
+        "description": {
+            "heading": "Call on the Power of Evolution with Pokémon ex!",
+            "body": "Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the sneaky magic of Meowscarada ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Booster packs",
             "1 foil promo featuring Meowscarada ex",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 41,
         "image": {
-            "first":"../TINS/PAL_TIN01_01",
-            "second":"../TINS/PAL_TIN01_02"
+            "first": "../TINS/PAL_TIN01_01",
+            "second": "../TINS/PAL_TIN01_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "20a55d68ed2b043",
@@ -810,23 +1180,24 @@
         "productName": "Paldea Partners Quaquaval ex Tin",
         "originalPrice": "",
         "price": "419",
-        "description":{
-            "heading":"Call on the Power of Evolution with Pokémon ex!",
-            "body":"Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the dazzling dance moves of Quaquaval ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!"
+        "description": {
+            "heading": "Call on the Power of Evolution with Pokémon ex!",
+            "body": "Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the dazzling dance moves of Quaquaval ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Booster packs",
             "1 foil promo featuring Quaquaval ex",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 68,
         "image": {
-            "first":"../TINS/PAL_TIN02_01",
-            "second":"../TINS/PAL_TIN02_02"
+            "first": "../TINS/PAL_TIN02_01",
+            "second": "../TINS/PAL_TIN02_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "f8d67e856f2c137",
@@ -835,23 +1206,24 @@
         "productName": "Paldea Partners Skeledirge ex Tin",
         "originalPrice": "",
         "price": "439",
-        "description":{
-            "heading":"Call on the Power of Evolution with Pokémon ex!",
-            "body":"Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the fired-up singing of Skeledirge ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!"
+        "description": {
+            "heading": "Call on the Power of Evolution with Pokémon ex!",
+            "body": "Command a rousing performance on the battlefield with a fully evolved first partner Pokémon ex! Choose the fired-up singing of Skeledirge ex in this Pokémon TCG: Paldea Partners Tin. Then, find even more Pokémon for your team inside the included booster packs!",
+            "cardlist": ""
         },
         "contents": [
             "4 Booster packs",
             "1 foil promo featuring Skeledirge ex",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 28,
         "image": {
-            "first":"../TINS/PAL_TIN03_01",
-            "second":"../TINS/PAL_TIN03_02"
+            "first": "../TINS/PAL_TIN03_01",
+            "second": "../TINS/PAL_TIN03_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "65f35b36496483a",
@@ -860,23 +1232,24 @@
         "productName": "Paldea Legends Koraidon ex Tin",
         "originalPrice": "",
         "price": "429",
-        "description":{
-            "heading":"Transcend Past & Future with Pokémon ex!",
-            "body":"Traverse the hills, waters, and sky of the Paldea region with a Legendary Pokémon by your side! Choose the primal intensity of Koraidon ex boasting a useful Ability and strong attack, and then build up your collection with even more Pokémon and Trainer cards inside a handful of booster packs."
+        "description": {
+            "heading": "Transcend Past & Future with Pokémon ex!",
+            "body": "Traverse the hills, waters, and sky of the Paldea region with a Legendary Pokémon by your side! Choose the primal intensity of Koraidon ex boasting a useful Ability and strong attack, and then build up your collection with even more Pokémon and Trainer cards inside a handful of booster packs.",
+            "cardlist": ""
         },
         "contents": [
             "4 Booster packs",
             "1 foil promo featuring Koraidon ex",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 42,
         "image": {
-            "first":"../TINS/PAL_TIN04_01",
-            "second":"../TINS/PAL_TIN04_02"
+            "first": "../TINS/PAL_TIN04_01",
+            "second": "../TINS/PAL_TIN04_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "0725b3806dc8d6a",
@@ -885,23 +1258,24 @@
         "productName": "Paldea Legends Miraidon ex Tin",
         "originalPrice": "",
         "price": "429",
-        "description":{
-            "heading":"Transcend Past & Future with Pokémon ex!",
-            "body":"Traverse the hills, waters, and sky of the Paldea region with a Legendary Pokémon by your side! Choose the polished fortitude of Miraidon ex boasting a useful Ability and strong attack, and then build up your collection with even more Pokémon and Trainer cards inside a handful of booster packs."
+        "description": {
+            "heading": "Transcend Past & Future with Pokémon ex!",
+            "body": "Traverse the hills, waters, and sky of the Paldea region with a Legendary Pokémon by your side! Choose the polished fortitude of Miraidon ex boasting a useful Ability and strong attack, and then build up your collection with even more Pokémon and Trainer cards inside a handful of booster packs.",
+            "cardlist": ""
         },
         "contents": [
             "4 Booster packs",
             "1 foil promo featuring Miraidon ex",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 46,
         "image": {
-            "first":"../TINS/PAL_TIN05_01",
-            "second":"../TINS/PAL_TIN05_02"
+            "first": "../TINS/PAL_TIN05_01",
+            "second": "../TINS/PAL_TIN05_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "bc767c11712f919",
@@ -910,9 +1284,10 @@
         "productName": "Scarlet & Violet Miraidon Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Scarlet & Violet Booster packs",
@@ -920,18 +1295,18 @@
             "65 card sleeves featuring Miraidon",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Scarlet & Violet expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 54,
         "image": {
-            "first":"../ETB/SV1_ETB02_01"
+            "first": "../ETB/SV1_ETB02_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "c7d0a48ea1ac28b",
@@ -940,9 +1315,10 @@
         "productName": "Scarlet & Violet Koraidon Elite Trainer Box",
         "originalPrice": "",
         "price": "999",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "9 Scarlet & Violet Booster packs",
@@ -950,18 +1326,18 @@
             "65 card sleeves featuring Koraidon",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Scarlet & Violet expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 plastic condition markers",
             "A collector's box to hold everything with 4 dividers to keep it organized"
         ],
         "onSale": false,
         "stock": 78,
         "image": {
-            "first":"../ETB/SV1_ETB01_01"
+            "first": "../ETB/SV1_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "837830bc315765f",
@@ -970,9 +1346,10 @@
         "productName": "Crown Zenith Elite Trainer Box",
         "originalPrice": "",
         "price": "1299",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "10 Crown Zenith Booster packs",
@@ -980,8 +1357,8 @@
             "65 card sleeves featuring Lucario",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Pokémon Sword & Shield - Crown Zenith expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 acrylic condition markers",
             "1 acrylic VSTAR marker",
             "A collector's box to hold everything with 4 dividers to keep it organized"
@@ -989,10 +1366,10 @@
         "onSale": false,
         "stock": 3,
         "image": {
-            "first":"../ETB/CZ_ETB01_01"
+            "first": "../ETB/CZ_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "4a3b0247ac9bf4c",
@@ -1001,23 +1378,24 @@
         "productName": "Crown Zenith Sonia & Yamper Mini Tin",
         "originalPrice": "",
         "price": "249",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Crown Zenith Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 4,
         "image": {
-            "first":"../TINS/CZ_MINITIN01_01",
-            "second":"../TINS/CZ_MINITIN_SHARED"
+            "first": "../TINS/CZ_MINITIN01_01",
+            "second": "../TINS/CZ_MINITIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "14491d274a4b10d",
@@ -1026,23 +1404,24 @@
         "productName": "Crown Zenith Marnie & Morpeko Mini Tin",
         "originalPrice": "",
         "price": "249",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Crown Zenith Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 11,
         "image": {
-            "first":"../TINS/CZ_MINITIN02_01",
-            "second":"../TINS/CZ_MINITIN_SHARED"
+            "first": "../TINS/CZ_MINITIN02_01",
+            "second": "../TINS/CZ_MINITIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "b2eecc8785a2666",
@@ -1051,23 +1430,24 @@
         "productName": "Crown Zenith Leon & Charizard Mini Tin",
         "originalPrice": "",
         "price": "249",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Crown Zenith Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 0,
         "image": {
-            "first":"../TINS/CZ_MINITIN03_01",
-            "second":"../TINS/CZ_MINITIN_SHARED"
+            "first": "../TINS/CZ_MINITIN03_01",
+            "second": "../TINS/CZ_MINITIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "35c73e9cde369eb",
@@ -1076,23 +1456,24 @@
         "productName": "Crown Zenith Hop & Wooloo Mini Tin",
         "originalPrice": "",
         "price": "249",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Crown Zenith Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 16,
         "image": {
-            "first":"../TINS/CZ_MINITIN04_01",
-            "second":"../TINS/CZ_MINITIN_SHARED"
+            "first": "../TINS/CZ_MINITIN04_01",
+            "second": "../TINS/CZ_MINITIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "aaa574bc49a4baa",
@@ -1101,23 +1482,24 @@
         "productName": "Crown Zenith Bede & Hatenna Mini Tin",
         "originalPrice": "",
         "price": "249",
-        "description":{
-            "heading":"Pokémon Favorites in the Palm of Your Hand!",
-            "body":"Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!"
+        "description": {
+            "heading": "Pokémon Favorites in the Palm of Your Hand!",
+            "body": "Expand your collection with this Pokémon TCG: Crown Zenith Mini Tin, perfectly sized for taking your favorite cards on the go! This fantastic tin is easy to open and features Sonia and Yamper in one of five fun Pokémon illustrations—and all five form a single image when you line them up!",
+            "cardlist": ""
         },
         "contents": [
             "2 Crown Zenith Booster packs",
             "1 sticker sheet",
             "1 Pokémon art card showing the art from this Mini Tin - you can collect and combine all 5!"
-            ],
+        ],
         "onSale": false,
         "stock": 19,
         "image": {
-            "first":"../TINS/CZ_MINITIN05_01",
-            "second":"../TINS/CZ_MINITIN_SHARED"
+            "first": "../TINS/CZ_MINITIN05_01",
+            "second": "../TINS/CZ_MINITIN_SHARED"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "c22e0c4c39aa9ea",
@@ -1126,22 +1508,23 @@
         "productName": "Crown Zenith Galarian Articuno Tin",
         "originalPrice": "",
         "price": "549",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "4 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Articuno",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 3,
         "image": {
-            "first":"../TINS/CZ_TIN01_01"
+            "first": "../TINS/CZ_TIN01_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "ef7fe8344d3c12a",
@@ -1150,22 +1533,23 @@
         "productName": "Crown Zenith Galarian Zapdos Tin",
         "originalPrice": "519",
         "price": "399",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "4 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Zapdos",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": true,
         "stock": 17,
         "image": {
-            "first":"../TINS/CZ_TIN02_01"
+            "first": "../TINS/CZ_TIN02_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "a3bc94bb70f5373",
@@ -1174,22 +1558,23 @@
         "productName": "Crown Zenith Galarian Moltres Tin",
         "originalPrice": "",
         "price": "539",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 4 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "4 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Moltres",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 9,
         "image": {
-            "first":"../TINS/CZ_TIN03_01"
+            "first": "../TINS/CZ_TIN03_01"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "f5adea22e860ef2",
@@ -1198,23 +1583,24 @@
         "productName": "Crown Zenith Galarian Articuno Premium Tin",
         "originalPrice": "",
         "price": "699",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "5 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Articuno",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 17,
         "image": {
-            "first":"../TINS/CZ_PREMIUMTIN01_01",
-            "second":"../TINS/CZ_PREMIUMTIN01_02"
+            "first": "../TINS/CZ_PREMIUMTIN01_01",
+            "second": "../TINS/CZ_PREMIUMTIN01_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "4f8626b59a3f37d",
@@ -1223,23 +1609,24 @@
         "productName": "Crown Zenith Galarian Zapdos Premium Tin",
         "originalPrice": "639",
         "price": "579",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "5 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Zapdos",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": true,
         "stock": 34,
         "image": {
-            "first":"../TINS/CZ_PREMIUMTIN02_01",
-            "second":"../TINS/CZ_PREMIUMTIN02_02"
+            "first": "../TINS/CZ_PREMIUMTIN02_01",
+            "second": "../TINS/CZ_PREMIUMTIN02_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "db54fa12e33dd73",
@@ -1248,23 +1635,24 @@
         "productName": "Crown Zenith Galarian Moltres Premium Tin",
         "originalPrice": "",
         "price": "679",
-        "description":{
-            "heading":"Legendary Pokémon from Galar Charge into Battle",
-            "body":"Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!"
+        "description": {
+            "heading": "Legendary Pokémon from Galar Charge into Battle",
+            "body": "Three fearsome Legendary Pokémon have arrived from the Galar region! With their own unique type and powers, they’re forces to be reckoned with. Add this power to your Pokémon TCG collection and see for yourself! Will you choose the atrocious attitude of Galarian Articuno, the zippy zeal of Galarian Zapdos, or the malevolent malice of Galarian Moltres? Regardless of your choice, you’ll also find 5 booster packs from the special Pokémon TCG: Crown Zenith expansion and a code card for Pokémon TCG Live!",
+            "cardlist": ""
         },
         "contents": [
             "5 Crown Zenith Booster packs",
             "1 full-art foil promo card featuring Galarian Moltres",
             "1 Pokémon TCG Live code"
-            ],
+        ],
         "onSale": false,
         "stock": 20,
         "image": {
-            "first":"../TINS/CZ_PREMIUMTIN03_01",
-            "second":"../TINS/CZ_PREMIUMTIN03_02"
+            "first": "../TINS/CZ_PREMIUMTIN03_01",
+            "second": "../TINS/CZ_PREMIUMTIN03_02"
         },
         "type": "tins-&-chests",
-        "released":true
+        "released": true
     },
     {
         "id": "837830bc315765f",
@@ -1273,17 +1661,18 @@
         "productName": "Lost Origin Elite Trainer Box",
         "originalPrice": "",
         "price": "899",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "8 Lost Origin Booster packs",
             "65 card sleeves featuring Origin Forme Giratina",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Pokémon Sword & Shield - Lost Origin expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 acrylic condition markers",
             "1 acrylic VSTAR marker",
             "A collector's box to hold everything with 4 dividers to keep it organized"
@@ -1291,10 +1680,10 @@
         "onSale": false,
         "stock": 22,
         "image": {
-            "first":"../ETB/LOR_ETB01_01"
+            "first": "../ETB/LOR_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "1e2d3df9c0e2588",
@@ -1303,9 +1692,10 @@
         "productName": "Pokémon GO Elite Trainer Box",
         "originalPrice": "",
         "price": "949",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "10 Pokémon GO Booster packs",
@@ -1313,8 +1703,8 @@
             "65 card sleeves featuring Mewtwo",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Pokémon Sword & Shield - Pokémon GO expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 acrylic condition markers",
             "1 acrylic VSTAR marker",
             "A collector's box to hold everything with 4 dividers to keep it organized"
@@ -1322,10 +1712,10 @@
         "onSale": false,
         "stock": 8,
         "image": {
-            "first":"../ETB/POGO_ETB01_01"
+            "first": "../ETB/POGO_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     },
     {
         "id": "c8875806962ff9a",
@@ -1334,17 +1724,18 @@
         "productName": "Astral Radiance Elite Trainer Box",
         "originalPrice": "",
         "price": "919",
-        "description":{
-            "heading":"",
-            "body":""
+        "description": {
+            "heading": "",
+            "body": "",
+            "cardlist": ""
         },
         "contents": [
             "8 Astral Radiance Booster packs",
             "65 card sleeves featuring Darkrai",
             "45 Pokémon TCG Energy cards",
             "A player's guide to the Pokémon Sword & Shield - Astral Radiance expansion",
-            "6 damage-counter dice", 
-            "1 competition-legal coin-flip die", 
+            "6 damage-counter dice",
+            "1 competition-legal coin-flip die",
             "2 acrylic condition markers",
             "1 acrylic VSTAR marker",
             "A collector's box to hold everything with 4 dividers to keep it organized"
@@ -1352,9 +1743,9 @@
         "onSale": false,
         "stock": 15,
         "image": {
-            "first":"../ETB/ASR_ETB01_01"
+            "first": "../ETB/ASR_ETB01_01"
         },
         "type": "elite-trainer-boxes",
-        "released":true
+        "released": true
     }
 ]
