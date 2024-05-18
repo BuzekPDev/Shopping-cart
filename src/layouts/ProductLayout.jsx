@@ -1,6 +1,5 @@
 import { useNavigate, useParams } from "react-router"
 import { useEffect, useState } from "react"
-import { Link } from "react-router-dom"
 import ReactPaginate from 'react-paginate'
 import { Sidebar } from "../components/Sidebar"
 import { Product } from "../components/Product"
@@ -25,13 +24,14 @@ export function ProductLayout({ param }) {
     const [saleCheck, setSaleCheck] = useState(false)
     const [min, setMin] = useState(50)
     const [max, setMax] = useState(9950)
+    const [sort, setSort] = useState('added-desc')
 
     const urlFragment = urlfragment()
     const page = urlFragment ? urlFragment : 0
 
     useEffect(() => {
         let ignore = false
-        const url = '/products.json'
+        const url = '/data/products.json'
 
         if (!ignore) {
             fetch(url)
@@ -54,6 +54,18 @@ export function ProductLayout({ param }) {
         setLocalParam(param)
     }
 
+    if (categoryId === 'search') {
+        document.title = 'Search results | PokéStore'
+    } else {
+        const arr = categoryId.split('-')
+        for (let i in arr) {
+            const char = arr[i][0].toLocaleUpperCase()
+            const word = arr[i].replace(arr[i][0], char)
+            arr[i] = word
+        }
+        const prettyText = arr.join(' ')
+        document.title = prettyText + ' | PokéStore'
+    }
 
     function checkBox(e, val) {
         const tempFilters = structuredClone(filters)
@@ -106,6 +118,73 @@ export function ProductLayout({ param }) {
         navitage(url)
     }
 
+    function sortHandler (val) {
+        setSort(val)
+    }
+
+    function sorted (products) {
+        let sortedProducts = []
+
+        switch (sort) {
+            case 'added-asc':
+                sortedProducts = products.reverse()
+                break;
+
+            case 'added-desc':
+                sortedProducts = products
+                break;
+
+            case 'alphabetical-asc':
+                sortedProducts = products.sort((productA, productB) => {
+                    if (productA.productName > productB.productName) {
+                        return 1
+                    }
+                    if (productA.productName < productB.productName) {
+                        return -1
+                    }
+                    return 0
+                })
+                break;
+
+            case 'alphabetical-desc':
+                sortedProducts =products.sort((productA, productB) => {
+                    if (productA.productName > productB.productName) {
+                        return -1
+                    }
+                    if (productA.productName < productB.productName) {
+                        return 1
+                    }
+                    return 0
+                })
+                break;
+
+            case 'price-asc':
+                sortedProducts = products.sort((productA, productB) => {
+                    if (Number(productA.price) > Number(productB.price)) {
+                        return 1
+                    }
+                    if (Number(productA.price) < Number(productB.price)) {
+                        return -1
+                    }
+                    return 0
+                })
+                break;
+
+            case 'price-desc':
+                sortedProducts = products.sort((productA, productB) => {
+                    if (Number(productA.price) > Number(productB.price)) {
+                        return -1
+                    }
+                    if (Number(productA.price) < Number(productB.price)) {
+                        return 1
+                    }
+                    return 0
+                })
+            break;
+        }
+        return sortedProducts
+    }
+
     let validProducts = products
     let queryString = ''
 
@@ -125,9 +204,10 @@ export function ProductLayout({ param }) {
     // memoize the filter calc and send to first page if valid
     // products change in length
     validProducts = filter(validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max)
-    const pageLength = 6
+    const sortedProducts = sorted(validProducts)
+    const pageLength = 9
     const maxPage = Math.ceil(validProducts.length / pageLength)
-    const shownProducts = paginate(validProducts, pageLength, page)
+    const shownProducts = paginate(sortedProducts, pageLength, page)
 
     return (
         <div className="flex justify-center h-fit w-full">
@@ -151,7 +231,7 @@ export function ProductLayout({ param }) {
                         maxInputHandler={maxInputHandler}
                     />
                     <div className="w-full flex flex-col sm:mt-4">
-                        <ResultsHeading categoryId={categoryId} queryString={queryString} />
+                        <ResultsHeading categoryId={categoryId} queryString={queryString} sortHandler={sortHandler}/>
                         {shownProducts.length ?
                             <div className="grid w-full lg:grid-cols-3 h-fit md:grid-cols-2 sm:grid-cols-2 xs:flex flex-col gap-4">
                                 <Product products={shownProducts} />
