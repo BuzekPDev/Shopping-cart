@@ -205,7 +205,7 @@ export function ProductLayout({ param }) {
     // products change in length
     validProducts = filter(validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max)
     const sortedProducts = sorted(validProducts)
-    const pageLength = 9
+    const pageLength = 12
     const maxPage = Math.ceil(validProducts.length / pageLength)
     const shownProducts = paginate(sortedProducts, pageLength, page)
 
