@@ -49,9 +49,32 @@
             "1 Pokémon TCG Live code"
         ],
         "onSale": false,
-        "stock": 78,
+        "stock": 478,
         "image": {
             "first": "../BOOSTERS/TWM_BOOSTER01_01"
+        },
+        "type": "boosters",
+        "released": false
+    },
+    {
+        "id": "cf593420e1aa3a9",
+        "edition": "Scarlet & Violet",
+        "expansion": "Twilight Masquarade",
+        "productName": "Twilight Masquarade Booster Box",
+        "originalPrice": "",
+        "price": "2999",
+        "description": {
+            "heading": "A Festival of Mischief & Mystery!",
+            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
+            "cardlist": ""
+        },
+        "contents": [
+            "36 Twilight Masquarade booster packs"
+        ],
+        "onSale": false,
+        "stock": 13,
+        "image": {
+            "first": "../BOOSTERS/TWM_BOOSTERBOX01_01"
         },
         "type": "boosters",
         "released": false
@@ -207,6 +230,165 @@
             "fifth": "../DECKS/GARDEVOIREX_LEAGUEDECK_05",
             "sixth": "../DECKS/GARDEVOIREX_LEAGUEDECK_06",
             "seventh": "../DECKS/GARDEVOIREX_LEAGUEDECK_07"
+        },
+        "type": "theme-decks",
+        "released": true
+    },
+    {
+        "id": "d5a894956efb1b7",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Melmetal ex Battle Deck",
+        "originalPrice": "",
+        "price": "279",
+        "description": {
+            "heading": "Master the Nuts & Bolts of Battle with Melmetal ex!",
+            "body": "Powerful Pokémon ex are ready to charge onto the battlefield in the Pokémon TCG: ex Battle Decks! Each 60-card deck is led by an exceptional Pokémon ex and includes everything you need to play right away. Let the battle begin!",
+            "cardlist": [
+                "1× Melmetal ex",
+                "3× Meltan",
+                "3× Revavroom",
+                "4× Varoom",
+                "2× Orthworm",
+                "2× Zacian",
+                "2× Bronzong",
+                "2× Bronzor",
+                "3× Nemona",
+                "3× Roark",
+                "2× Youngster",
+                "1× Jacq",
+                "1× Rika",
+                "4× Great Ball",
+                "3× Switch",
+                "2× Energy Sticker",
+                "2× Nest Ball",
+                "1× Potion",
+                "19× Basic Metal Energy"
+            ]
+        },
+        "contents": [
+            "1 ready-to-play 60-card deck",
+            "3 reference cards",
+            "1 single-player playmat",
+            "1 set of damage counters",
+            "1 large metallic coin",
+            "1 deck box",
+            "1 strategy sheet",
+            "1 Pokémon TCG Live code to play this deck online"
+        ],
+        "onSale": false,
+        "stock": 17,
+        "image": {
+            "first": "../DECKS/MELMETALEX_BATTLEDECK_01",
+            "second": "../DECKS/MELMETALEX_BATTLEDECK_02",
+            "third": "../DECKS/MELMETALEX_BATTLEDECK_03",
+            "fourth": "../DECKS/MELMETALEX_BATTLEDECK_03"
+        },
+        "type": "theme-decks",
+        "released": true
+    },
+    {
+        "id": "8745026e0f5f9f3",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Houndoom ex Battle Deck",
+        "originalPrice": "",
+        "price": "279",
+        "description": {
+            "heading": "Master the Nuts & Bolts of Battle with Melmetal ex!",
+            "body": "Powerful Pokémon ex are ready to charge onto the battlefield in the Pokémon TCG: ex Battle Decks! Each 60-card deck is led by an exceptional Pokémon ex and includes everything you need to play right away. Let the battle begin!",
+            "cardlist": [
+                "1× Houndoom ex",
+                "2× Houndoom",
+                "3× Houndour",
+                "2× Umbreon",
+                "3× Eevee",
+                "2× Lokix",
+                "3× Nymble",
+                "2× Seviper",
+                "2× Morpeko",
+                "4× Nemona",
+                "2× Rika",
+                "2× Roark",
+                "2× Youngster",
+                "1× Jacq",
+                "4× Great Ball",
+                "2× Energy Sticker",
+                "2× Nest Ball",
+                "2× Potion",
+                "1× Switch",
+                "18× Basic Darkness Energy"
+            ]
+        },
+        "contents": [
+            "1 ready-to-play 60-card deck",
+            "3 reference cards",
+            "1 single-player playmat",
+            "1 set of damage counters",
+            "1 large metallic coin",
+            "1 deck box",
+            "1 strategy sheet",
+            "1 Pokémon TCG Live code to play this deck online"
+        ],
+        "onSale": false,
+        "stock": 42,
+        "image": {
+            "first": "../DECKS/HOUNDOOMEX_BATTLEDECK_01",
+            "second": "../DECKS/HOUNDOOMEX_BATTLEDECK_02",
+            "third": "../DECKS/HOUNDOOMEX_BATTLEDECK_03",
+            "fourth": "../DECKS/HOUNDOOMEX_BATTLEDECK_04"
+        },
+        "type": "theme-decks",
+        "released": true
+    },
+    {
+        "id": "be3cfec86eddca7",
+        "edition": "Scarlet & Violet",
+        "expansion": "",
+        "productName": "Ninetales ex Deluxe Battle Deck",
+        "originalPrice": "",
+        "price": "549",
+        "description": {
+            "heading": "Fan the Flames of Battle with Ninetales ex!",
+            "body": "Powerful Pokémon ex are ready to charge onto the battlefield in the Pokémon TCG: ex Deluxe Battle Decks! Each 60-card deck is led by an exceptional Pokémon ex and includes everything you need to play right away. Let the battle begin!",
+            "cardlist": [
+                "3× Ninetales ex",
+                "4× Vulpix",
+                "3× Rapidash",
+                "4× Ponyta",
+                "2× Paldean Tauros",
+                "3× Judge",
+                "3× Professor’s Research (Professor Sada)",
+                "3× Youngster",
+                "3× Zisu",
+                "2× Jacq",
+                "1× Jubilife Village",
+                "4× Nest Ball",
+                "3× Earthen Vessel",
+                "3× Ultra Ball",
+                "2× Energy Retrieval",
+                "2× Switch",
+                "1× Pal Pad",
+                "1× Super Rod",
+                "13× Basic Fire Energy"
+            ]
+        },
+        "contents": [
+            "1 ready-to-play 60-card deck",
+            "3 reference cards",
+            "1 single-player playmat",
+            "1 set of damage counters",
+            "1 large metallic coin",
+            "1 deck box",
+            "1 strategy sheet",
+            "1 Pokémon TCG Live code to play this deck online"
+        ],
+        "onSale": false,
+        "stock": 17,
+        "image": {
+            "first": "../DECKS/NINETALESEX_BATTLEDECKDX_01",
+            "second": "../DECKS/NINETALESEX_BATTLEDECKDX_02",
+            "third": "../DECKS/NINETALESEX_BATTLEDECKDX_03"
         },
         "type": "theme-decks",
         "released": true
@@ -766,6 +948,58 @@
         },
         "type": "elite-trainer-boxes",
         "released": true
+    },
+    {
+        "id": "763fd5bfcab9427",
+        "edition": "Scarlet & Violet",
+        "expansion": "Paradox Rift",
+        "productName": "Paradox Rift Booster pack",
+        "originalPrice": "",
+        "price": "99",
+        "description": {
+            "heading": "Uncover the Anomalies of Area Zero!",
+            "body": "Dive into the clouds and explore a land that appears to be unbound by time! With ferocious attacks, Ancient Pokémon like Roaring Moon ex and Sandy Shocks ex appear alongside artificial Future Pokémon like Iron Valiant ex and Iron Hands ex. Meanwhile, Garchomp ex, Mewtwo ex, and others Terastallize to gain new types, as Armarouge ex, Gholdengo ex, and more Pokémon ex join the fray. Adventure awaits as timelines collide in the Pokémon TCG: Scarlet & Violet—Paradox Rift expansion!",
+            "cardlist": ""
+        },
+        "contents": [
+            "10 Pokémon Paradox Rift Trading cards",
+            "1 Energy card",
+            "1 Pokémon TCG Live code"
+        ],
+        "onSale": false,
+        "stock": 678,
+        "image": {
+            "first": "../BOOSTERS/PAR_BOOSTER01_01",
+            "second": "../BOOSTERS/PAR_BOOSTER01_02",
+            "third": "../BOOSTERS/PAR_BOOSTER01_03",
+            "fourth": "../BOOSTERS/PAR_BOOSTER01_04",
+            "fifth": "../BOOSTERS/PAR_BOOSTER01_05"
+        },
+        "type": "boosters",
+        "released": false
+    },
+    {
+        "id": "16a8ff0441bae43",
+        "edition": "Scarlet & Violet",
+        "expansion": "Paradox Rift",
+        "productName": "Paradox Rift Booster Box",
+        "originalPrice": "",
+        "price": "2999",
+        "description": {
+            "heading": "Uncover the Anomalies of Area Zero!",
+            "body": "Dive into the clouds and explore a land that appears to be unbound by time! With ferocious attacks, Ancient Pokémon like Roaring Moon ex and Sandy Shocks ex appear alongside artificial Future Pokémon like Iron Valiant ex and Iron Hands ex. Meanwhile, Garchomp ex, Mewtwo ex, and others Terastallize to gain new types, as Armarouge ex, Gholdengo ex, and more Pokémon ex join the fray. Adventure awaits as timelines collide in the Pokémon TCG: Scarlet & Violet—Paradox Rift expansion!",
+            "cardlist": ""
+        },
+        "contents": [
+            "36 Paradox Rift Booster packs"
+        ],
+        "onSale": false,
+        "stock": 20,
+        "image": {
+            "first": "../BOOSTERS/PAR_BOOSTERBOX01_01"
+        },
+        "type": "boosters",
+        "released": false
     },
     {
         "id": "d8bdc79315d9348",
