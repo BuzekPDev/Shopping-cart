@@ -5,6 +5,7 @@ import { HomeLayout } from '../layouts/HomeLayout'
 import { ProductLayout } from "../layouts/ProductLayout";
 import { CartContextProvider } from "../context/CartContextProvider";
 import { Filler } from "../components/Filler";
+import { Footer } from "../components/Footer";
 
 export function Home () {
 
@@ -24,7 +25,7 @@ export function Home () {
                 :
                 <HomeLayout />
             }
-            
+            <Footer />
         </CartContextProvider>
         </>
     )

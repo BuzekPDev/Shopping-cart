@@ -1,5 +1,4 @@
 import { Header } from "../components/Header";
-import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router";
 import { ImageSlider } from "../components/ImageSlider";
@@ -8,6 +7,7 @@ import { ProductCard } from "../components/ProductCard";
 import { ProductInfo } from "../components/ProductInfo";
 import { CartContextProvider } from "../context/CartContextProvider";
 import { Filler } from "../components/Filler";
+import { Footer } from "../components/Footer";
 
 export function ProductPage() {
 
@@ -18,7 +18,7 @@ export function ProductPage() {
     useEffect(() => {
         let ignore = false
 
-        const url = `/products.json`
+        const url = `/data/products.json`
         if (!ignore) {
             fetch(url)
                 .then(res => res.json())
@@ -31,6 +31,8 @@ export function ProductPage() {
     function selectedHandler(val) {
         setSelected(val) 
     }
+
+    document.title = displayedItem.productName + ' | PokéStore'
 
     return (
         <>
@@ -45,6 +47,7 @@ export function ProductPage() {
                 </div>
                 <ProductInfo item={displayedItem}/>
             </main>
+            <Footer />
         </CartContextProvider>
         </>
     )
