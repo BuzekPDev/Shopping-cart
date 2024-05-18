@@ -1,6 +1,5 @@
-import { useContext, useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import CartContext from "./CartContext";
-import { json } from "react-router";
 
 export function CartContextProvider ({ children }) {
 
