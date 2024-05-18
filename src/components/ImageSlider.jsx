@@ -14,7 +14,7 @@ export function ImageSlider({item, selected, selectedHandler}) {
                         <div className=" w-fit h-fit transition-all duration-300 flex" style={{ transform: `translateX(-${100 * selected}%)` }}> { //style={{left:`-${100*selected}%`}}> {// wrap in another container } //style={{transform:`translateX(-${20*selected}rem)`}}
                         }
                             {Object.values(item.image).map((image, id) =>
-                                <img key={id} className='w-full h-auto max-h-[30rem] max-w-[30rem] transition-all block' src={image.replace('..', '')} />
+                                <img key={image} className='w-full h-auto max-h-[30rem] max-w-[30rem] transition-all block' src={image.replace('..', '')+'.webp'} />
                             )}
                         </div>
                     }
@@ -33,7 +33,7 @@ export function ImageSlider({item, selected, selectedHandler}) {
             <div className="flex justify-center items-center">
                 {item.image &&
                     Object.values(item.image).map((image, id) => (
-                        <div className="flex justify-center items-center w-8 h-8">
+                        <div key={id} className="flex justify-center items-center w-8 h-8">
                             <div className={`bg-neutral-300 transition-all duration-200 w-4 h-4 tra rounded-full tra inline-block ${selected === id && 'selected-image'}`} onClick={() => selectedHandler(id)}></div>
                         </div>
                     ))

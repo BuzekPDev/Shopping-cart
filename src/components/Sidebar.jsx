@@ -1,6 +1,3 @@
-import { Link, useParams } from "react-router-dom"
-import { useState, useEffectm, useMemo } from "react"
-import { filter } from "../helpers/filter"
 
 export function Sidebar({ 
     stockCheck,
@@ -48,9 +45,9 @@ export function Sidebar({
                     <div className="w-full rounded-xl px-4 py-1 mb-2 text-black box-border bg-neutral-300">Availability</div>
                     {
                         miscellaneous.map((self, id) => (
-                            <label className="flex flex-row-reverse justify-end text-lg font-normal">
+                            <label key={self} className="flex flex-row-reverse items-center justify-end text-lg font-normal">
                                 {self}
-                                <input key={self} type="checkbox" checked={miscStates[id]} onChange={handlers[id]}></input>
+                                <input type="checkbox" checked={miscStates[id]} onChange={handlers[id]}></input>
                             </label>
                         ))
                     }
@@ -62,14 +59,14 @@ export function Sidebar({
                         <input min='0' max='10000' value={min} id="min" onChange={minHandler} step='100' className="absolute top-0 left-0 slider appearance-none w-full" type="range" />
                         <input min='0' max='10000' value={max} id='max' onChange={maxHandler} step='100' className="absolute top-0 left-0 slider appearance-none w-full" type="range" />
                     </div>
-                    <div className="flex md:justify-between mt-2 gap-10">
+                    <div className="flex md:justify-between mt-2 gap-10 lg:gap-12">
                         <label className="sm:mt-2 mt-1 text-base">
                             Min
-                            <input type="number" placeholder={min} onChange={minInputHandler} className="text- w-[4rem] py-1 px-1 xs:ml-0 xs:block sm:ml-2 bg-neutral-200 border-black border-"></input>
+                            <input type="number" placeholder={min} onChange={minInputHandler} className="text- w-[4rem] py-1 px-1 xs:ml-0 xs:block sm:ml-2 bg-neutral-200 border-black"></input>
                         </label>
                         <label className="sm:mt-2 mt-1 text-base">
                             Max
-                            <input type="number" placeholder={max} onChange={maxInputHandler} className="w-[4rem] xs:ml-0 py-1 px-1 xs:block sm:ml-2 bg-neutral-200 border-black border-"></input>
+                            <input type="number" placeholder={max} onChange={maxInputHandler} className="w-[4rem] xs:ml-0 py-1 px-1 xs:block sm:ml-2 bg-neutral-200 border-black"></input>
                         </label>
                     </div>
                 </div>
@@ -77,9 +74,9 @@ export function Sidebar({
                     <div className="text-base w-full rounded-xl px-4 py-1 mb-2 text-black box-border bg-neutral-300">Expansions</div>
                     {
                         expansions.map((self, id) => (
-                            <label className="flex flex-row-reverse justify-end text-lg font-normal">
+                            <label  key={self} className="flex items-center flex-row-reverse justify-end text-lg font-normal">
                                 {self}
-                                <input key={self} type="checkbox" checked={filters.includes(self)} onChange={(e) => checkBox(e, self)}></input>
+                                <input type="checkbox" checked={filters.includes(self)} onChange={(e) => checkBox(e, self)}></input>
                             </label>
                         ))
                     }

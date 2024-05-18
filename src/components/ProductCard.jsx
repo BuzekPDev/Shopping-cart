@@ -1,6 +1,5 @@
 import { useState, useContext } from "react";
 import { salePercentage } from "../helpers/salePercentage";
-import { BuyButton } from "./BuyButton";
 import CartContext from "../context/CartContext";
 
 
@@ -87,7 +86,7 @@ export function ProductCard({ item }) {
                 )}
             </div>
             <ul className="mt-6 bg-neutral-200 rounded-xl py-2 px-4 max-w-[30rem]">
-                <h3 className="font-medium">The {item.productName} contains:</h3>
+                <h3 className="font-medium">The {/* Each */} {item.productName} contains:</h3>
                 { item.contents &&
                 item.contents.map((content) => (
                     <li className=" font-normal text-base list-disc list-inside" key={content}>{content}</li>

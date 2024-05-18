@@ -8,7 +8,7 @@ export function CheckoutItem({ item, amountHandler, deleteHandler }) {
         <div className="relative flex lg:items-center border-2 border-neutral-300 rounded-lg w-full py-4 md:px-12 sm:px-4 xs:flex-col">
             <div className="mr-8 sm:mr-4">
                 <Link to={`/products/${item.type}/${item.id}`}>
-                    <img className=" min-w-28 min-h-28 w-28 h-28 flex-0" src={item.image} />
+                    <img loading="lazy" className=" min-w-28 min-h-28 w-28 h-28 flex-0" src={item.image+'MINI.webp'} />
                 </Link>
             </div>
             <div className="flex justify-between w-full flex-col lg:flex-row lg:items-center mr-10">
@@ -32,12 +32,12 @@ export function CheckoutItem({ item, amountHandler, deleteHandler }) {
                     </div>
                     <div className=' flex lg:justify-center'>
                         <button className="relative font-medium group text-lg flex justify-center items-center w-8 h-8 bg-neutral-200 rounded-l-md" onClick={() => amountHandler(item.qty - 1, item)} type="button">
-                            <span className="absolute z-20 w-full h-full flex justify-center group-hover:text-white transition-colors duration-200 items-center">-</span>
+                            <span className="absolute z-10 w-full h-full flex justify-center group-hover:text-white transition-colors duration-200 items-center">-</span>
                             <div className="absolute bg-teal-600 w-full h-full rounded-l-md [transform:rotateY(90deg)] group-hover:[transform:rotateY(0deg)] duration-200"></div>
                         </button>
                         <input className="w-10 h-8 text-sm px-2 text-center bg-neutral-100" max={99} value={item.qty} onChange={(e) => amountHandler(e.target.value, item)} type="number"></input>
                         <button className="relative font-medium group text-lg flex justify-center items-center bg-neutral-200 rounded-r-md w-8 h-8" onClick={() => amountHandler(item.qty + 1, item)} type="button">
-                            <span className="absolute z-20 w-full h-full flex justify-center group-hover:text-white transition-colors duration-200 items-center">+</span>
+                            <span className="absolute z-10 w-full h-full flex justify-center group-hover:text-white transition-colors duration-200 items-center">+</span>
                             <div className="absolute bg-teal-600 w-full h-full rounded-r-md [transform:rotateY(90deg)] group-hover:[transform:rotateY(0deg)] duration-200"></div>
                         </button>
                     </div>

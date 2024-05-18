@@ -1,6 +1,5 @@
 import { useParams } from "react-router"
 import { Link } from "react-router-dom"
-import homeIcon from '../assets/icons/home.svg'
 
 export function Timeline({ item }) {
 

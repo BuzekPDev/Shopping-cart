@@ -1,28 +1,14 @@
-import { useState, useEffect } from "react"
-import { Link, useParams } from "react-router-dom"
-import { Error } from "./ErrorPage"
+import { Link} from "react-router-dom"
 import { BuyButton } from "./BuyButton"
 
 export function Product({ products }) {
 
-    function getPercent (originalPrice, price) {
-        const ogPrice = Number(originalPrice)
-        const newPrice = Number(price)
-        
-        const dif = ogPrice - newPrice
-        const avg = (ogPrice+newPrice)/2
-        const percentage = Math.floor((dif/avg)*100)
-        console.log(percentage)
-
-        return percentage
-    }
-
     return (
             <>
-            {products.map(item => (
+            {products.map((item, id) => (
                 <div key={self.id} className='flex flex-col h-full border-neutral-300 border-2 rounded-lg md:pt-4'>
                     <Link to={`products/${item.type}/${item.id}`}>
-                        <img className='scale-[65%] hover:scale-[75%] transition-transform duration-200' src={item.image.first} />
+                        <img loading={id===0 ? "eager" : "lazy"} height={'200px'} width='200px' className='m-auto w-[200px] h-auto flex-1 scale-[65%] hover:scale-[75%] transition-transform duration-200' src={item.image.first+'MINI.webp'} />
                         <h3 className='text-center px-4 text-[1.1rem] font-medium text-wrap'>{item.productName}</h3>
                     </Link>
                     {item.stock > 0 ? (
