@@ -22,8 +22,9 @@ export function ProductPage() {
         if (!ignore) {
             fetch(url)
                 .then(res => res.json())
-                .then(json => json.filter(item => item.id === productId))
-                .then(product => { setDisplayedItem(product[0]) })
+                .then(json => json.find(item => item.id === productId))
+                .then(product => { setDisplayedItem(product) })
+                // change filter to find
         }
         return () => { ignore = true }
     }, [categoryId, productId])
