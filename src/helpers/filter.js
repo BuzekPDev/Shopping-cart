@@ -4,8 +4,6 @@ export function filter (products, params, filters, stock, released, sale, minPri
     
     let filteredList = products
 
-    console.log('parameters: ' + params)
-
     if (params !== 'search')
         filteredList = filteredList.filter(product => product.type === params)
 

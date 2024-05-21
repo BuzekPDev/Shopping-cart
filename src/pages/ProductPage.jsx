@@ -24,7 +24,6 @@ export function ProductPage() {
                 .then(res => res.json())
                 .then(json => json.find(item => item.id === productId))
                 .then(product => { setDisplayedItem(product) })
-                // change filter to find
         }
         return () => { ignore = true }
     }, [categoryId, productId])

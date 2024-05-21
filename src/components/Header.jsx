@@ -8,8 +8,6 @@ export function Header() {
 
     const [cart] = useContext(CartContext)
 
-    console.log("Cart header: " + cart)
-
     const navItems = ['Elite Trainer Boxes', 'Tins & Chests', 'Blisters', 'Boosters', 'Boxes', 'Collections', 'Theme Decks']
     const refs = ['elite-trainer-boxes', 'tins-&-chests', 'blisters', 'boosters', 'boxes', 'collections', 'theme-decks']
 

@@ -34,9 +34,7 @@ export function CheckoutBody() {
 
         const cartCopy = structuredClone(cart)
         const index = cart.indexOf(item)
-        
-        console.log(item)
-        console.log(index)
+    
         cartCopy.splice(index,1)
 
         setCart(cartCopy)

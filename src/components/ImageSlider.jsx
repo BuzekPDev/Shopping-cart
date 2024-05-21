@@ -5,7 +5,6 @@ export function ImageSlider({item, selected, selectedHandler}) {
 
     const imageCount = item.image ? Object.keys(item.image).length : 0
 
-
     return (
         <div className="flex flex-col md:w-full lg:w-fit">
             <div className="relative h-fit max-h-[30rem] md:w-full lg:w-[35rem] overflow-hidden md:h-[35rem] border-black flex justify-center">

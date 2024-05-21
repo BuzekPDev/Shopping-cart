@@ -15,7 +15,6 @@ export function ProductCard({ item }) {
 
         if (amount > maxValue) amount = maxValue
         if (amount === 0) amount = 1
-        console.log(amount)
 
         setAmount(amount)
     }

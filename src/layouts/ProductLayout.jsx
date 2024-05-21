@@ -41,9 +41,6 @@ export function ProductLayout({ param }) {
         return () => { ignore = true }
     }, [categoryId])
 
-    // using 2 seperate param states kinda fixes screen
-    // flashing with previous page's render
-    // I'd like to do it another way but I'm very tired right now
     if (param !== localParam) {
         setFilters([])
         setMin(0)
@@ -114,7 +111,6 @@ export function ProductLayout({ param }) {
 
     function paginationNavigationBecausePaginationAnchorsRefuseToHandleInputEvenThoughHrefIsValid(value) {
         const url = paginateUrl(categoryId, value)
-        console.log(url)
         navitage(url)
     }
 
@@ -189,7 +185,6 @@ export function ProductLayout({ param }) {
     let queryString = ''
 
     if (categoryId === 'search') {
-        console.log(categoryId)
         queryString = urlquery()
 
         const filteredList = products.filter(product =>
@@ -201,8 +196,6 @@ export function ProductLayout({ param }) {
 
     const fragment = urlfragment()
 
-    // memoize the filter calc and send to first page if valid
-    // products change in length
     validProducts = useMemo(() => 
         filter(validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max)
     ,[validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max])
