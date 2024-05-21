@@ -1,4 +1,4 @@
-import { useContext, useState } from "react"
+import { useContext, useState, useMemo } from "react"
 import CartContext from "../context/CartContext"
 import { Header } from "./Header"
 import { Filler } from "./Filler"
@@ -49,7 +49,7 @@ export function CheckoutBody() {
         setModal(!modal)
     }
 
-    const totalPrice = total(cart)
+    const totalPrice = useMemo(() => total(cart),[cart])
 
     return (
         <>
