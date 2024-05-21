@@ -1,5 +1,5 @@
 import { Link, useNavigate } from "react-router-dom"
-import { Fragment, useContext } from "react"
+import { Fragment, useContext, useRef } from "react"
 import CartContext from "../context/CartContext"
 
 export function Header() {
@@ -13,29 +13,32 @@ export function Header() {
     const navItems = ['Elite Trainer Boxes', 'Tins & Chests', 'Blisters', 'Boosters', 'Boxes', 'Collections', 'Theme Decks']
     const refs = ['elite-trainer-boxes', 'tins-&-chests', 'blisters', 'boosters', 'boxes', 'collections', 'theme-decks']
 
+    const slideRef = useRef('')
+    const closeRef = useRef('')
+
     function openSide(e) {
         if (e.currentTarget !== e.target) return
 
         e.stopPropagation()
         const body = document.querySelector('body')
-        const close = document.querySelector('.close')
+        const close = closeRef.current
         body.style.overflow = 'hidden'
         setTimeout(() => {
             close.classList.add('slide')
             close.style.pointerEvents = 'initial'
         }, 200)
-        e.target.firstChild.className = 'top-0 z-[9999] transition-transform translate-x-[0] left-0 w-full duration-200 flex h-full fixed'
+        slideRef.current.className = 'top-0 z-[9999] transition-transform translate-x-[0] left-0 w-full duration-200 flex h-full fixed'
 
     }
 
     function closeSide(e) {
         // if (e.currentTarget !== e.target) return
-        const body = document.querySelector('body')
-        const close = document.querySelector('.close')
+        const body = document.body
+        const close = closeRef.current
         close.classList.remove('slide')
         close.style.pointerEvents = 'none'
         setTimeout(() => {
-            e.target.parentElement.parentElement.className = 'top-0 z-[9999] transition-transform translate-x-[-100%] left-0 w-full duration-200 h-full flex fixed'
+            slideRef.current.className = 'top-0 z-[9999] transition-transform translate-x-[-100%] left-0 w-full duration-200 h-full flex fixed'
             body.style.overflow = 'visible'
         }, 150)
     }
@@ -57,7 +60,7 @@ export function Header() {
                 <div className="flex justify-between md:hidden xs:px-2 sm:px-3">
                     <div className="flex md:hidden">
                         <button type="button" className="md:h-0 md:w-0 md:hidden sm:h-10 sm:w-10 relative text-left mr-3 group" onClick={openSide}>
-                            <div className="top-0 transition-transform translate-x-[-100%] left-0 w-full [z-index:9999] fixed" >
+                            <div ref={slideRef} className="top-0 transition-transform translate-x-[-100%] left-0 w-full [z-index:9999] fixed" >
                                 <div className="bg-slate-50 w-[calc(100%-3.5rem)]">
                                     <div className="w-full h-[3.5rem] bg-neutral-800"></div>
                                     {refs.map((self, id) => (
@@ -70,7 +73,7 @@ export function Header() {
                                     ))}
                                 </div>
                                 <div>
-                                    <div className="w-14 h-14 flex justify-center items-center box-border bg-red-600 transition-transform duration-150 close translate-y-[-100%]" onClick={closeSide}>
+                                    <div className="w-14 h-14 flex justify-center items-center box-border bg-red-600 transition-transform duration-150 close translate-y-[-100%]" onClick={closeSide} ref={closeRef}>
                                         {/* <svg className="w-4 h-4 fill-white transition-colors duration-150 pointer-events-none" width="64px" height="64px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" strokeWidth="0"></g><g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round"></g><g id="SVGRepo_iconCarrier"><path fillRule="evenodd" clipRule="evenodd" d="M19.207 6.207a1 1 0 0 0-1.414-1.414L12 10.586 6.207 4.793a1 1 0 0 0-1.414 1.414L10.586 12l-5.793 5.793a1 1 0 1 0 1.414 1.414L12 13.414l5.793 5.793a1 1 0 0 0 1.414-1.414L13.414 12l5.793-5.793z" ></path></g></svg> */}
                                         <svg className="w-6 h-6 fill-wh transition-colors duration-150 pointer-events-none" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" strokeWidth="0"></g><g id="SVGRepo_tracerCarrier" strokeLinecap="round" strokeLinejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="Edit / Close_Circle"> <path id="Vector" d="M9 9L11.9999 11.9999M11.9999 11.9999L14.9999 14.9999M11.9999 11.9999L9 14.9999M11.9999 11.9999L14.9999 9M12 21C7.02944 21 3 16.9706 3 12C3 7.02944 7.02944 3 12 3C16.9706 3 21 7.02944 21 12C21 16.9706 16.9706 21 12 21Z" stroke="#FFFFFF" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"></path> </g> </g></svg>
                                     </div>
