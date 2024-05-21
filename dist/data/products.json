@@ -57,29 +57,6 @@
         "released": false
     },
     {
-        "id": "cf593420e1aa3a9",
-        "edition": "Scarlet & Violet",
-        "expansion": "Twilight Masquarade",
-        "productName": "Twilight Masquarade Booster Box",
-        "originalPrice": "",
-        "price": "2999",
-        "description": {
-            "heading": "A Festival of Mischief & Mystery!",
-            "body": "Welcome to the land of Kitakami, where people and Pokémon live harmoniously with nature. Folktales abound, but not all is as it seems... Uncover the mystery of the masked Legendary Pokémon Ogerpon, appearing as four fearsome types of Tera Pokémon ex, and team up with more newly discovered Pokémon, like Bloodmoon Ursaluna ex and Sinistcha ex. Growing in power, Greninja, Dragapult, and Magcargo dazzle as Tera Pokémon ex, and more ACE SPEC cards round out the festivities in the Pokémon TCG: Scarlet & Violet—Twilight Masquerade expansion!",
-            "cardlist": ""
-        },
-        "contents": [
-            "36 Twilight Masquarade booster packs"
-        ],
-        "onSale": false,
-        "stock": 13,
-        "image": {
-            "first": "../BOOSTERS/TWM_BOOSTERBOX01_01"
-        },
-        "type": "boosters",
-        "released": false
-    },
-    {
         "id": "fdb87120f149825",
         "edition": "Scarlet & Violet",
         "expansion": "Twilight Masquarade",
@@ -976,7 +953,7 @@
             "fifth": "../BOOSTERS/PAR_BOOSTER01_05"
         },
         "type": "boosters",
-        "released": false
+        "released": true
     },
     {
         "id": "16a8ff0441bae43",
@@ -999,7 +976,7 @@
             "first": "../BOOSTERS/PAR_BOOSTERBOX01_01"
         },
         "type": "boosters",
-        "released": false
+        "released": true
     },
     {
         "id": "d8bdc79315d9348",
