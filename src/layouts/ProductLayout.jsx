@@ -1,5 +1,5 @@
 import { useNavigate, useParams } from "react-router"
-import { useEffect, useState } from "react"
+import { useEffect, useState, useMemo } from "react"
 import ReactPaginate from 'react-paginate'
 import { Sidebar } from "../components/Sidebar"
 import { Product } from "../components/Product"
@@ -203,7 +203,10 @@ export function ProductLayout({ param }) {
 
     // memoize the filter calc and send to first page if valid
     // products change in length
-    validProducts = filter(validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max)
+    validProducts = useMemo(() => 
+        filter(validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max)
+    ,[validProducts, categoryId, filters, stockCheck, releasedCheck, saleCheck, min, max])
+
     const sortedProducts = sorted(validProducts)
     const pageLength = 12
     const maxPage = Math.ceil(validProducts.length / pageLength)
